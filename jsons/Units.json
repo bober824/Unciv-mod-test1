@@ -3,7 +3,7 @@
 		"name": "Phasers",
 		"unitType": "Ranged",
 		"uniqueTo": "Skyrim",
-		"replaces": "Machine Gun",
+		"replaces": "Rifleman",
 		"movement": 2,
 		"strength": 90,
 		"rangedStrength": 36,
