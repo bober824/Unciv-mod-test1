@@ -29,6 +29,7 @@
 
 		"outerColor": [78,118,187],
 		"innerColor": [120,161,234],
+		"favoredReligion": "Девять Божеств",
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Whiterun","Solitude","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
