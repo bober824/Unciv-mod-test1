@@ -6,26 +6,26 @@
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "O High King of the Nords Ysgramor, our people were forced to leave Atmora due to the constant wars for resources and the great frosts. Our ships set out to find new lands, and here we are.",
-		"startIntroPart2": "Nords hope that you can restore our former glory and create a great power in the lands of Skyrim. Glory to King Ysgramor! ",
+		"startIntroPart1": "О Верховный Король Нордов Исграмор, наш народ был вынужден покинуть Атмору из-за постоянных войн за ресурсы и великих морозов. Наши корабли отправились на поиски новых земель, и вот мы здесь.",
+		"startIntroPart2": "Норды надеются, что вы сможете восстановить нашу былую славу и создать великую державу на землях Скайрима. Слава королю Исграмору!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "As superior galactic entities, you are not worthy of our attention.",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Что привело тебя в земли Скайрима?",
+		"neutralLetsHearIt": ["Ну давай говори же, чужак"],
+		"neutralNo": ["Не сегодня, чужак"],
+		"neutralYes": ["Честная сделка, Скайрим согласен"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Вали с земель Скайрима, тебе тут не рады, или ты хочешь умереть в бою?",
+		"hateLetsHearIt": ["Говори быстрее если не хочешь сдохнуть"],
+		"hateNo": ["Твои слова даже дешёвой медовухи не стоят, чужак"],
+		"hateYes": ["Ладно, на этот раз мы договорились"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Славная была битва.",
+		"tradeRequest": "Мы надеемся на хороший обмен с вами.",
 
 		"outerColor": [78,118,187],
 		"innerColor": [120,161,234],
