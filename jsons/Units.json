@@ -1,17 +1,20 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+		"name": "Berserker",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
 		"uniqueTo": "Skyrim",
-		"replaces": "Rifleman",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Gunpowder",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"movement": 3,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"requiredResource": "Iron",
+		"promotions": ["Amphibious"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+		//Skyrim unique unit. Can attack from the sea without any penalty, and moves faster.
+
 	}
 ]
