@@ -9,10 +9,10 @@
 		"startIntroPart1": "О Верховный Король Нордов Исграмор, наш народ был вынужден покинуть Атмору из-за постоянных войн за ресурсы и великих морозов. Наши корабли отправились на поиски новых земель, и вот мы здесь.",
 		"startIntroPart2": "Норды надеются, что вы сможете восстановить нашу былую славу и создать великую державу на землях Скайрима. Слава королю Исграмору!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Скайрим всегда побеждает!",
+		"attacked": "Хочешь битвы, чужак? Будет тебе великая битва, мы норды всегда побеждаем. Скайрим для Нордов!",
+		"defeated": "Это право сильного, ты победил в этой битве, чужак.",
+		"introduction": "Приветствую вас чужак. Мы норды, завоеватели севера и основатели Скайрима. Мы прибыли на эту землю с Атморы под предводительством нашего славного короля Исграмора, мы надеемся на хорошие отношения с вами.",
 		
 		"neutralHello": "Что привело тебя в земли Скайрима?",
 		"neutralLetsHearIt": ["Ну давай говори же, чужак"],
