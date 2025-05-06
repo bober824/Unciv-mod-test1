@@ -1,25 +1,12 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Skyrim",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
+		"name": "Mead Hall",
 		"uniqueTo": "Skyrim",
 		"cost": 80,
-		"hurryCostModifier": 160,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"maintenance": 1,
+		"uniques": ["Provides [1] [Mead]"],
+		"hurryCostModifier": 25,
+		"requiredTech": "Calendar"
 	}
 ]
