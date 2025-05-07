@@ -1,11 +1,11 @@
 [
 	{
-		"name": "Mead Hall",
+		"name": "Медовый Зал",
 		"uniqueTo": "Skyrim",
 		"cost": 80,
 		"happiness": 2,
 		"maintenance": 1,
-		"uniques": ["Provides [1] [Mead]"],
+		"uniques": ["Provides [1] [Медовуха]"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Calendar"
 	}
