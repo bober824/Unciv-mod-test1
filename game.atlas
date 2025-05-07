@@ -6,16 +6,16 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Mead Hall
   rotate: false
-  xy: 112, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
 
 NationIcons/Skyrim
   rotate: false
   xy: 4, 4
-  size: 100, 100
+  size: 64, 64
 ResourceIcons/Mead
   rotate: false
   xy: 0, 0
