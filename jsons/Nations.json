@@ -43,8 +43,8 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Император Тайбер Септим, добро пожаловать в имперские владения. Ты объединитель земель Империи и Тамриэля.",
+		"startIntroPart2": "Каждый гражданин империи благословит вас и надеется на вашу верную службу всей империи. Вы должны обепечить благо для всей Империи и Тамриэля",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
 		"attacked": "You want to play? Very funny!",
