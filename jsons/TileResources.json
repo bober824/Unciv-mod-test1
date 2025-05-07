@@ -2,5 +2,18 @@
   {
     "name": "Медовуха",
 		"resourceType": "Luxury"
-  }
+  },
+	{
+	"name": "Эбонит",
+	"resourceType": "Strategic",
+	"uniques": [
+  "Guaranteed with Strategic Balance resource option",
+  "Generated with weight [40] <in [Hill] tiles> <in [Tundra] tiles>",
+  "Generated with weight [30] <in [Hill] tiles> <in [Mountains] tiles>",
+  "Generated with weight [20] <in [Plains] tiles> <in [Hill] tiles>",
+  "Minor deposits generated with weight [15] <in [Tundra] tiles>",
+  "Minor deposits generated with weight [10] <in [Plains] tiles> <in tiles without [Hill]>",
+  "Minor deposits generated with weight [5] <in [Snow] tiles>"
+	]
+	}
 ]
