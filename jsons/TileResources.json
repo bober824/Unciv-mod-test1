@@ -6,7 +6,7 @@
 	{
 	"name": "Эбонит",
 	"resourceType": "Strategic",
-	"revealedBy": "Metal casting",
+	"revealedBy": "Metal Casting",
 	"terrainsCanBeFoundOn": ["Plains","Hill","Tundra","Snow"],
 	"uniques": [
   "Guaranteed with Strategic Balance resource option",
