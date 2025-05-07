@@ -14,7 +14,7 @@ BuildingIcons/Mead Hall
 
 NationIcons/Skyrim
   rotate: false
-  xy: -224, -32
+  xy: 2, 2
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -22,7 +22,7 @@ NationIcons/Skyrim
 
 NationIcons/Empire
 rotate: false
-  xy: -160, -32
+  xy: 80, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
