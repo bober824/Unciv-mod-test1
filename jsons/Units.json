@@ -32,5 +32,22 @@
 		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+
+	},
+	{
+                "name": "Imperial Templare",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Empire",
+		"movement": 2,
+		"strength": 23,
+		"cost": 120,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"requiredResource": "Iron",
+                "uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
