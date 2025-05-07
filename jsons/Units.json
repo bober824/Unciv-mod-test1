@@ -26,7 +26,7 @@
 		"strength": 17,
 		"cost": 75,
 		"requiredTech": "Iron Working",
-		"upgradesTo": "Longswordsman",
+		"upgradesTo": "Имперский Темплар",
 		"obsoleteTech": "Gunpowder",
 		"requiredResource": "Iron",
 		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
@@ -35,7 +35,7 @@
 
 	},
 	{
-                "name": "Imperial Templare",
+                "name": "Имперский Темплар",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Empire",
@@ -47,6 +47,17 @@
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Iron",
                 "uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Эбонитовый воин",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 30,
+		"cost": 250,
+		"requiredTech": "Metal Casting",
+		"requiredResource": "Эбонит",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	}
