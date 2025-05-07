@@ -8,5 +8,16 @@
 		"uniques": ["Provides [1] [Медовуха]"],
 		"hurryCostModifier": 25,
 		"requiredTech": "Calendar"
+	},
+	{
+                "name": "Имперский форт",
+                "uniqueTo": "Empire",
+		"cost": 100,
+		"replaces": "Castle",
+		"cityStrength": 7,
+		"cityHealth": 25,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Walls",
+		"requiredTech": "Chivalry"	
 	}
 ]
