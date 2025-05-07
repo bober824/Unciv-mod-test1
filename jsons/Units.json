@@ -16,5 +16,21 @@
 		"attackSound": "metalhit"
 		//Skyrim unique unit. Can attack from the sea without any penalty, and moves faster.
 
+	},
+	{
+                "name": "Legion",
+		"unitType": "Sword",
+		"uniqueTo": "Empire",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 17,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
