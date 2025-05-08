@@ -69,10 +69,22 @@
     "rangedStrength": 10,
 		"range": 1,
 		"cost": 125,
-		"requiredTech":
-		"obsoleteTech":
-		"updatesTo":
+		"requiredTech": "pottery"
+		"obsoleteTech": "philosophy"
+		"updatesTo": "Маг"
 		"uniques": ["[+50]% Strength <vs cities> <when attacking>","[-15]% Strength <vs [Melee] units> <when defending"],
-		"attackSound": "phaser"
+		"attackSound": "phasers"
+	},
+	{
+		"name": "Маг",
+		"unitType": "Mage",
+		"movement": 2,
+		"strength": 7,
+    "rangedStrength": 15,
+		"range": 1,
+		"cost": 150,
+		"requiredTech": "philosophy"
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>","[-15]% Strength <vs [Melee] units> <when defending"],
+		"attackSound": "phasers"
 	}
 ]
