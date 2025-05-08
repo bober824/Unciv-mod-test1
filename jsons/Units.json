@@ -70,9 +70,9 @@
     "rangedStrength": 10,
 		"range": 1,
 		"cost": 125,
-		"requiredTech": "Pottery"
-		"obsoleteTech": "Philosophy"
-		"updatesTo": "Маг"
+		"requiredTech": "Pottery",
+		"obsoleteTech": "Philosophy",
+		"updatesTo": "Маг",
 		"uniques": ["[+50]% Strength <vs cities> <when attacking>",
 			"[-15]% Strength <vs [Melee] units> <when defending>"],
 		"attackSound": "phasers"
@@ -85,7 +85,7 @@
     "rangedStrength": 15,
 		"range": 1,
 		"cost": 150,
-		"requiredTech": "Philosophy"
+		"requiredTech": "Philosophy",
 		"uniques": ["[+50]% Strength <vs cities> <when attacking>",
 			"[-15]% Strength <vs [Melee] units> <when defending>"],
 		"attackSound": "phasers"
@@ -100,7 +100,7 @@
     "rangedStrength": 20,
 		"range": 1,
 		"cost": 200,
-		"requiredTech": "Philosophy"
+		"requiredTech": "Philosophy",
 		"uniques": ["[+50]% Strength <vs cities> <when attacking>",
 			"[-15]% Strength <vs [Melee] units> <when defending>"],
 		"attackSound": "phasers"
