@@ -8,7 +8,7 @@
 	"resourceType": "Strategic",
 	"production": 1,
 	"improvement": "Mine",
-	"improvementStats": {"production": 3"},
+	"improvementStats": {"production": 3},
 	"revealedBy": "Metal Casting",
 	"terrainsCanBeFoundOn": ["Plains","Hill","Tundra","Snow"],
 	"uniques": [
@@ -26,7 +26,7 @@
 	"resourceType": "Strategic",
   "production": 2,
 	"improvement": "Mine",
-	"improvementStats": {"production": 4"},
+	"improvementStats": {"production": 4},
 	"revealedBy": "Steel",
 	"terrainsCanBeFoundOn": ["Hill"],
 	"uniques": [
