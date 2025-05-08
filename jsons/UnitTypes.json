@@ -1,0 +1,8 @@
+[
+  // Land
+{
+  "name": "Mage",
+  "movementType": "Land",
+  "uniques": ["[+50]% Strength <vs cities> <when attacking>"]
+}
+]
