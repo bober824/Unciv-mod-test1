@@ -18,7 +18,7 @@
 
 	},
 	{
-                "name": "Legion",
+    "name": "Legion",
 		"unitType": "Sword",
 		"uniqueTo": "Empire",
 		"replaces": "Swordsman",
@@ -100,5 +100,19 @@
 		"requiredResource": "Адамантий",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
-	}
+	},
+	{
+		"name": "Рыцарь Вэйреста",
+		"unitType": "Mounted",
+		"replaces": "Knight"
+		"uniqueTo": "High-Rock"
+		"movement": 4,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 ]
