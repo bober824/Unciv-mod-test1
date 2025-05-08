@@ -91,6 +91,21 @@
 		"attackSound": "phasers"
 	},
 	{
+		"name": "Бретонский Маг",
+		"unitType": "Mage",
+    "replaces": "Маг",
+		"uniqueTo": "High-Rock",
+		"movement": 2,
+		"strength": 9,
+    "rangedStrength": 20,
+		"range": 1,
+		"cost": 200,
+		"requiredTech": "Philosophy"
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>",
+			"[-15]% Strength <vs [Melee] units> <when defending>"],
+		"attackSound": "phasers"
+	},
+	{
 		"name": "Адамантитовый Воин",
 		"unitType": "Sword",
 		"movement": 2,
