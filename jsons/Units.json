@@ -60,5 +60,19 @@
 		"requiredResource": "Эбонит",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Шаман",
+		"unitType": "Mage",
+		"movement": 2,
+		"strength": 5,
+    "rangedStrength": 10,
+		"range": 1,
+		"cost": 125,
+		"requiredTech":
+		"obsoleteTech":
+		"updatesTo":
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>","[-15]% Strength <vs [Melee] units> <when defending"],
+		"attackSound": "phaser"
 	}
 ]
