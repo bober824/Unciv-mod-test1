@@ -30,7 +30,9 @@
 		"outerColor": [78,118,187],
 		"innerColor": [120,161,234],
 		"favoredReligion": "Девять Божеств",
-		"unique": "Завоеватели_Севера",
+		"uniqueName": "Завоеватели_Севера",
+		"uniques": ["CombatStrength +25% in [Snow] tiles",
+              "CombatStrength +25% in [Tundra] tiles"	]
 		"cities": ["Винтерхолд","Виндхельм","Солитьюд","Вайтран","Рифтен","Фолкрит","Данстар","Морфал","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
@@ -67,7 +69,8 @@
 		"outerColor": [156,28,28],
 		"innerColor": [200,37,37],
 		"favoredReligion": "Восемь Божеств",
-		"unique": "Имперская_Дипломатия",
+		"uniqueName": "Имперская_Дипломатия",
+		"uniques": ["[-50]% City-State Influence degradation", "City-State Influence recovers at twice the normal rate"],
 		"cities": ["Имперский Город","Анвил","Скинград","Бравил","Брума","Чейдинхол","Лейавин"]
 	},
 	{
@@ -101,7 +104,7 @@
 		"outerColor": [78,118,187],
 		"innerColor": [120,161,234],
 		"favoredReligion": "Девять Божеств",
-		"unique": "Аристократия_Запада",
+		"uniqueName": "Аристократия_Запада",
 		"cities": ["Даггерфол","Вэйрест","Камлорн","Эвермор","Шорнхельм","Нортпойнт","Альдкрофт","Ветровая Крепость","Кеглин","Орлиный Ручей"]
 	}
 ]
