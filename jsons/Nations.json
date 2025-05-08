@@ -31,8 +31,8 @@
 		"innerColor": [120,161,234],
 		"favoredReligion": "Девять Божеств",
 		"uniqueName": "Завоеватели_Севера",
-		"uniques": ["CombatStrength +25% in [Snow] tiles",
-              "CombatStrength +25% in [Tundra] tiles"	]
+		"uniques": ["[+25]% Strength <for [All] units> <when fighting in [Snow] tiles>",
+		            "[+25]% Strength <for [All] units> <when fighting in [Tundra] tiles>"]
 		"cities": ["Винтерхолд","Виндхельм","Солитьюд","Вайтран","Рифтен","Фолкрит","Данстар","Морфал","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
