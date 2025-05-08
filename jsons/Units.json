@@ -35,7 +35,7 @@
 
 	},
 	{
-                "name": "Имперский Темплар",
+    "name": "Имперский Темплар",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Empire",
@@ -46,7 +46,7 @@
 		"upgradesTo": "Musketman",
 		"obsoleteTech": "Metallurgy",
 		"requiredResource": "Iron",
-                "uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
+    "uniques": ["Can build [Road] improvements on tiles", "Can build [Fort] improvements on tiles"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -57,6 +57,7 @@
 		"strength": 30,
 		"cost": 250,
 		"requiredTech": "Metal Casting",
+		"updatesTo": "Адамантитовый Воин",
 		"requiredResource": "Эбонит",
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
@@ -85,7 +86,19 @@
 		"range": 1,
 		"cost": 150,
 		"requiredTech": "Philosophy"
-		"uniques": ["[+50]% Strength <vs cities> <when attacking>","[-15]% Strength <vs [Melee] units> <when defending>"],
+		"uniques": ["[+50]% Strength <vs cities> <when attacking>",
+			"[-15]% Strength <vs [Melee] units> <when defending>"],
 		"attackSound": "phasers"
+	},
+	{
+		"name": "Адамантитовый Воин",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 35,
+		"cost": 300,
+		"requiredTech": "Steel",
+		"requiredResource": "Адамантий",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
 	}
 ]
