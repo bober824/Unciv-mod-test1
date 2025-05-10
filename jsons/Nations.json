@@ -33,8 +33,8 @@
 		"uniqueName": "Завоеватели_Севера",
 		"uniques": ["[+25]% Strength <for [All] units> <when fighting in [Snow] tiles>",
 		            "[+25]% Strength <for [All] units> <when fighting in [Tundra] tiles>"]
-		"cities": ["Винтерхолд","Виндхельм","Солитьюд","Вайтран","Рифтен","Фолкрит","Данстар","Морфал","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+		"cities": ["Винтерхолд","Виндхельм","Солитьюд","Вайтран","Рифтен","Фолкрит","Данстар","Морфал","Картвастен",
+			"Ривервуд","Хелген","Драконий Мост","Айварстед","Рорикстед","Камень Шора","Роща Кин","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
 	},
