@@ -130,5 +130,18 @@
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+	{
+		"name": "Ра Гада",
+		"unitType": "Sword",
+		"replaces": "Warrior",
+		"uniqueTo": "Hammerfell",
+		"movement": 3,
+		"strength": 10,
+		"cost": 50,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit"
 	}
 ]
