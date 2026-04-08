@@ -4,9 +4,9 @@ size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-NationIcons/Скайрим
+NationIcons/Скайрим 
   rotate: false
-  xy: 4, 62
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
