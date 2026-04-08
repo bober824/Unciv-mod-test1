@@ -3,7 +3,7 @@
 		"name": "Berserker",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
-		"uniqueTo": "Skyrim",
+		"uniqueTo": "Скайрим",
 		"movement": 3,
 		"strength": 21,
 		"cost": 120,
