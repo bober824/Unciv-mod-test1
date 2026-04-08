@@ -1,43 +1,12 @@
 
 game.png
-size: 512, 128
+size: 2048, 512
 format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
+filter: MipMapLinearLinear, Linear
 repeat: none
-BuildingIcons/Mead Hall
+NationIcons/Скайрим
   rotate: false
-  xy: 0, 0
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-
-NationIcons/Skyrim
-  rotate: false
-  xy: 2, 2
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-
-NationIcons/Empire
-rotate: false
-  xy: 80, 4
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-
-ResourceIcons/Mead
-  rotate: false
-  xy: 0, 0
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-UnitIcons/Phasers
-  rotate: false
-  xy: 328, 4
+  xy: 4, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
